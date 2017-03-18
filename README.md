@@ -24,3 +24,9 @@ Lastly, here's some advice Alan Kay gave me (as I was going through a small pers
 Alan Kay
 July 21, 2011
 
+### [The Power of Abstraction](https://www.youtube.com/watch?v=qAKrMdUycb8)
+
+Barbara Liskov
+Jan 29, 2013
+
+Presented as a Keynote during OOPSLA'09, 24th ACM SIGPLAN conference on Object oriented programming systems languages and applications.
