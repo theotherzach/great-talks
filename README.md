@@ -30,3 +30,7 @@ Barbara Liskov
 Jan 29, 2013
 
 Presented as a Keynote during OOPSLA'09, 24th ACM SIGPLAN conference on Object oriented programming systems languages and applications.
+
+### [Life Beyond the Illusion of Present by Jonas Boner](https://www.youtube.com/watch?v=Nhz5jMXS8gE)
+
+Jonas Bonér, inventor of Akka, discusses down some constraints in distributed systems which - more fundamentally than the CAP theorem even - limit the assumptions you can make about the systems you collaborate with over a distance.
