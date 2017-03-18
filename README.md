@@ -34,3 +34,9 @@ Presented as a Keynote during OOPSLA'09, 24th ACM SIGPLAN conference on Object o
 ### [Life Beyond the Illusion of Present by Jonas Boner](https://www.youtube.com/watch?v=Nhz5jMXS8gE)
 
 Jonas Bonér, inventor of Akka, discusses down some constraints in distributed systems which - more fundamentally than the CAP theorem even - limit the assumptions you can make about the systems you collaborate with over a distance.
+
+
+### [Building Brains to Understand the World's Data](https://www.youtube.com/watch?v=4y43qwS8fl4)
+
+Found this while looking for the talk of Jeff Hawkins' that I saw live at Strange Loop. You won't hear the acronym 'Recurrent Neural Networks" in here because his ideas predate that moniker. But indeed he has reasonably modeled a brain in software. And it is - fundamentally a prediction engine that feeds back until its predictions get better. I wish every person who claims to work with human brains (psychologists, team leaders, teachers, etc..) would watch this.
+
