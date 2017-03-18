@@ -40,5 +40,7 @@ Jonas Bonér, inventor of Akka, discusses down some constraints in distributed s
 
 Found this while looking for the talk of Jeff Hawkins' that I saw live at Strange Loop. You won't hear the acronym 'Recurrent Neural Networks" in here because his ideas predate that moniker. But indeed he has reasonably modeled a brain in software. And it is - fundamentally a prediction engine that feeds back until its predictions get better. I wish every person who claims to work with human brains (psychologists, team leaders, teachers, etc..) would watch this.
 
-https://www.ted.com/talks/susan_blackmore_on_memes_and_temes
+### [Are we building programs, or could they be building us](https://www.ted.com/talks/susan_blackmore_on_memes_and_temes)
+
+Dan Pinker, Daniel Dennet, Susan Blackmore - great thinkers and studiers of memes - software in the most general sense. Much like Michael Pollan did with 'The Botany Of Desire', Susan turns our assumptions inside out by pointing out how useful it is to these ideas, and the silicon in which they reside, that we devote ever greater amounts of our time and energy to building new homes and transmission vectors for them.
 
