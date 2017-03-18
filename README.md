@@ -40,3 +40,5 @@ Jonas Bonér, inventor of Akka, discusses down some constraints in distributed s
 
 Found this while looking for the talk of Jeff Hawkins' that I saw live at Strange Loop. You won't hear the acronym 'Recurrent Neural Networks" in here because his ideas predate that moniker. But indeed he has reasonably modeled a brain in software. And it is - fundamentally a prediction engine that feeds back until its predictions get better. I wish every person who claims to work with human brains (psychologists, team leaders, teachers, etc..) would watch this.
 
+https://www.ted.com/talks/susan_blackmore_on_memes_and_temes
+
